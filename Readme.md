@@ -5,7 +5,7 @@ Welcome to the Apple Products Showcase, a responsive website designed to provide
 
 ## View Live
 
-Visit the live version of the Apple Products Showcase [here](https://your-live-link.com).
+Visit the live version of the Apple Products Showcase [here](https://arunsh52.github.io/apple_product/).
 
 ## Table of Contents
 
